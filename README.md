@@ -8,4 +8,4 @@ It is for users who don't want to make, or look up and extract specific icons fr
 
 
 # Note
-For now it contains only one set — suitable for Numix theme (https://github.com/numixproject/), but in future i will try to cover more popular themes. Contributions are highly welcome.
+For now it contains only one set — suitable for Numix-circle theme (https://github.com/numixproject/numix-icon-theme-circle), but in future i will try to cover more popular themes. Contributions are highly welcome.
